@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/BinarySearchTree/.vs/BinarySearchTree
+/BinarySearchTree/BinarySearchTree/obj
+/BinarySearchTree/BinarySearchTree/bin/Debug/net8.0
+/.gitignore
