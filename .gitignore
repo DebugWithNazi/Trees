@@ -18,3 +18,7 @@
 /Heap/.vs/Heap
 /Heap/Heap/bin/Debug/net8.0
 /Heap/Heap/obj
+/Tries/.vs/Tries
+/Tries/Tries/bin/Debug/net8.0
+/Tries/Tries/obj
+/.gitignore
